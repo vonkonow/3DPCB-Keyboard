@@ -1,5 +1,5 @@
 # 3DPCB-Keyboard - Customizable 3D printed ortholinear keyboard with replaceable keycaps and QMK FW
-![image](3DPCB-Keyboard.jpgg)
+![image](3DPCB-Keyboard.jpg)
 
 This is the github repository containing 3D models, QMK firmware and inlay graphics for the 3DPCB-Keyboard project:
 https://vonkonow.com/wordpress/2020/07/3dpcb-keyboard/
